@@ -1,2 +1,5 @@
 # JoyStick
-The Joystick made of STM32 MCU
+- 利用STM32制作的游戏手柄
+- 这是初版，有几个按键无法触发
+- 摇杆未设置死区，角度过大会产生剧烈抖动
+> nailongdw1 贡献
