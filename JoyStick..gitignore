@@ -1,0 +1,20 @@
+# Keil build artifacts
+build/
+Build/
+Objects/
+Listings/
+Debug/
+Release/
+*.o
+*.obj
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.d
+*.dep
+*.uvoptx
+*.uvguix.*
